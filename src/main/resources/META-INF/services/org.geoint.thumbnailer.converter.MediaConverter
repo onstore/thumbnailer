@@ -1,0 +1,4 @@
+org.geoint.thumbnailer.converter.NoConversionConverter
+org.geoint.thumbnailer.converter.PPTConverter
+org.geoint.thumbnailer.converter.PPTXConverter
+org.geoint.thumbnailer.converter.PDFConverter
