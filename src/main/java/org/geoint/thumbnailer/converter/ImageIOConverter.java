@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
  * A MediaConverter that does no conversion. This converter is used for native
  * images supported by ImageIO.
  */
-public class NoConversionConverter implements MediaConverter {
+public class ImageIOConverter implements MediaConverter {
 
     @Override
     public String[] supportedMediaTypes() {
